@@ -14,7 +14,7 @@ author: Jason Huang
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  Reseme: "reseme"
+  Resume: "resume"
   About Me: "aboutme"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
