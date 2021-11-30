@@ -7,7 +7,7 @@ Hi！我是 Jason，一名台大資工三年級的學生，中文本名是黃少
 
 這個 blog 會不定期更新一些上課或論文的筆記，以及其他日常的隨筆(修課心得、實習心得 etc.)，如果有任何問題或想要改善的地方歡迎透過網頁底部的 E-mail 聯絡我！
 
-更多的資訊請參考我的 [Reseme](/reseme)
+更多的資訊請參考我的 [Resume](/resume)
 
 ---
 
@@ -15,4 +15,4 @@ Hi, my name is Jason, a student of National Taiwan University, majoring in Compu
 
 I will upload posts once in a while to this blog. The posts will contain notes of courses I've taken or papers I've read, and some daily writings like thoughts about interesting courses or internships. If you have any question or have some devices to help me improve this website, please contact me with E-mail listed at the bottom of the page.
 
-For more information, please check my [Reseme](/reseme).
+For more information, please check my [Resume](/resume).
