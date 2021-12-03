@@ -7,7 +7,7 @@ tags: [note, computer science]
 Operating system (OS) is a compulsory course in the second semester of an NTUCSIE student's sophomore year. In this course, I've taken several notes according to the textbook **Operating System Concepts - 10th edition** and the slides of professor [Chung-Wei Lin](https://www.csie.ntu.edu.tw/~cwlin/) and [Chi-Sheng Shih](https://newslabntu.github.io/DanielFolio/).
 
 <figure>
-  <img src="/assets/img/os-textbook-cover.png" alt="Operating System Concepts Cover"/>
+  <img src="{{ site.baseurl }}/assets/img/os-textbook-cover.png" alt="Operating System Concepts Cover"/>
   <figcaption style="text-align: center; margin-top: 10px;">Figure 1 : Cover of Operating System Concepts</figcaption>
 </figure>
 

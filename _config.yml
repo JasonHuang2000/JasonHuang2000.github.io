@@ -5,6 +5,10 @@
 
 # --- Required options --- #
 
+# URL of website
+url: https://jasonhuang2000.github.io
+baseurl: /blog
+
 # Name of website
 title: Jason's Blog
 
